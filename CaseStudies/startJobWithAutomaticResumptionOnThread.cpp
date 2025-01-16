@@ -1,4 +1,4 @@
-// startJobWithResumptionOnThread.cpp
+// startJobWithAutomaticResumptionOnThread.cpp
 
 #include <coroutine>
 #include <functional>
